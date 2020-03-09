@@ -84,3 +84,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# qz
+paginate: 5   # 每页显示5篇文章
+paginate_path: “/page:num”
